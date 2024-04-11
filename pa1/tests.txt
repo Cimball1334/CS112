@@ -1,0 +1,179 @@
+INPUT
+10
+15
+bed
+1
+1.5
+
+OUTPUT
+Welcome to the Sims4 Builder Helper!
+What is the width of your lot in Sim units? What is the length of your lot in Sim units? What is your specific item? What is the width of your specific item in Sim units? What is the length of your specific item in Sim units? The area of your lot in Sim units is 150 square units
+The area of your lot in square feet is 2400 square ft
+The bed in the real world is about 4 ft by 6 ft
+About 100 beds can fit in this lot
+About 100% of the lot is covered by the beds
+About 0 square units is left uncovered
+About 0% of the lot is left uncovered
+Have fun building!
+
+INPUT
+10
+15
+Garage
+1.75
+1.75
+
+OUTPUT
+Welcome to the Sims4 Builder Helper!
+What is the width of your lot in Sim units? What is the length of your lot in Sim units? What is your specific item? What is the width of your specific item in Sim units? What is the length of your specific item in Sim units? The area of your lot in Sim units is 150 square units
+The area of your lot in square feet is 2400 square ft
+The Garage in the real world is about 7 ft by 7 ft
+About 40 Garages can fit in this lot
+About 81% of the lot is covered by the Garages
+About 27 square units is left uncovered
+About 18% of the lot is left uncovered
+Have fun building!
+
+INPUT
+20
+10
+fridge
+1
+1.5
+
+OUTPUT
+Welcome to the Sims4 Builder Helper!
+What is the width of your lot in Sim units? What is the length of your lot in Sim units? What is your specific item? What is the width of your specific item in Sim units? What is the length of your specific item in Sim units? The area of your lot in Sim units is 200 square units
+The area of your lot in square feet is 3200 square ft
+The fridge in the real world is about 4 ft by 6 ft
+About 120 fridges can fit in this lot
+About 90% of the lot is covered by the fridges
+About 20 square units is left uncovered
+About 10% of the lot is left uncovered
+Have fun building!
+
+INPUT
+5
+5
+table
+.75
+1.25
+
+OUTPUT
+Welcome to the Sims4 Builder Helper!
+What is the width of your lot in Sim units? What is the length of your lot in Sim units? What is your specific item? What is the width of your specific item in Sim units? What is the length of your specific item in Sim units? The area of your lot in Sim units is 25 square units
+The area of your lot in square feet is 400 square ft
+The table in the real world is about 3 ft by 5 ft
+About 24 tables can fit in this lot
+About 90% of the lot is covered by the tables
+About 2 square units is left uncovered
+About 10% of the lot is left uncovered
+Have fun building!
+
+INPUT
+2
+4
+Counter
+1
+1
+
+OUTPUT
+Welcome to the Sims4 Builder Helper!
+What is the width of your lot in Sim units? What is the length of your lot in Sim units? What is your specific item? What is the width of your specific item in Sim units? What is the length of your specific item in Sim units? The area of your lot in Sim units is 8 square units
+The area of your lot in square feet is 128 square ft
+The Counter in the real world is about 4 ft by 4 ft
+About 8 Counters can fit in this lot
+About 100% of the lot is covered by the Counters
+About 0 square units is left uncovered
+About 0% of the lot is left uncovered
+Have fun building!
+
+INPUT
+50
+60
+bed
+1
+1.5
+
+OUTPUT
+Welcome to the Sims4 Builder Helper!
+What is the width of your lot in Sim units? What is the length of your lot in Sim units? What is your specific item? What is the width of your specific item in Sim units? What is the length of your specific item in Sim units? The area of your lot in Sim units is 3000 square units
+The area of your lot in square feet is 48000 square ft
+The bed in the real world is about 4 ft by 6 ft
+About 2000 beds can fit in this lot
+About 100% of the lot is covered by the beds
+About 0 square units is left uncovered
+About 0% of the lot is left uncovered
+Have fun building!
+
+INPUT
+3
+3
+garage
+1.75
+1.75
+
+OUTPUT
+Welcome to the Sims4 Builder Helper!
+What is the width of your lot in Sim units? What is the length of your lot in Sim units? What is your specific item? What is the width of your specific item in Sim units? What is the length of your specific item in Sim units? The area of your lot in Sim units is 9 square units
+The area of your lot in square feet is 144 square ft
+The garage in the real world is about 7 ft by 7 ft
+About 1 garages can fit in this lot
+About 34% of the lot is covered by the garages
+About 5 square units is left uncovered
+About 65% of the lot is left uncovered
+Have fun building!
+
+INPUT
+200
+100
+refrigerator
+1
+1.5
+
+OUTPUT
+Welcome to the Sims4 Builder Helper!
+What is the width of your lot in Sim units? What is the length of your lot in Sim units? What is your specific item? What is the width of your specific item in Sim units? What is the length of your specific item in Sim units? The area of your lot in Sim units is 20000 square units
+The area of your lot in square feet is 320000 square ft
+The refrigerator in the real world is about 4 ft by 6 ft
+About 13200 refrigerators can fit in this lot
+About 99% of the lot is covered by the refrigerators
+About 200 square units is left uncovered
+About 1% of the lot is left uncovered
+Have fun building!
+
+INPUT
+75.75
+68.25
+table
+.75
+1.25
+
+OUTPUT
+Welcome to the Sims4 Builder Helper!
+What is the width of your lot in Sim units? What is the length of your lot in Sim units? What is your specific item? What is the width of your specific item in Sim units? What is the length of your specific item in Sim units? The area of your lot in Sim units is 5169 square units
+The area of your lot in square feet is 82719 square ft
+The table in the real world is about 3 ft by 5 ft
+About 5454 tables can fit in this lot
+About 98% of the lot is covered by the tables
+About 56 square units is left uncovered
+About 1% of the lot is left uncovered
+Have fun building!
+
+INPUT
+1
+1
+counter
+1
+1
+
+OUTPUT
+Welcome to the Sims4 Builder Helper!
+What is the width of your lot in Sim units? What is the length of your lot in Sim units? What is your specific item? What is the width of your specific item in Sim units? What is the length of your specific item in Sim units? The area of your lot in Sim units is 1 square units
+The area of your lot in square feet is 16 square ft
+The counter in the real world is about 4 ft by 4 ft
+About 1 counters can fit in this lot
+About 100% of the lot is covered by the counters
+About 0 square units is left uncovered
+About 0% of the lot is left uncovered
+Have fun building!
